@@ -36,10 +36,10 @@ const HeroSection = () => {
           </p>
           <div>
              <Link
-               href="https://google.com"
+               href="https://www.linkedin.com/in/yoto-kim/"
                className="inline-block px-6 py-3 w-full sm:w-auto text-white rounded-full mr-4
                 bg-gradient-to-r from-green-500 via-emerald-500 to-teal-500 hover:text-black">
-               Contact me!
+               Connect with me!
              </Link>
              <Link
               href="#projects"
@@ -54,7 +54,7 @@ const HeroSection = () => {
          <div className="col-span-5 place-self-center mt-4 lg:mt-0">
              <div className="rounded-full bg-gradient-to-r from-green-500 via-emerald-500 to-teal-500 w-[250px] h-[250px] lg:w-[340px] lg:h-[340px] relative">
                  <Image
-                    src="/images/HeadShot.png"
+                    src="/images/headshot.png"
                     alt="head shot"
                     className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                     width={300}
