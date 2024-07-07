@@ -9,9 +9,9 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li><strong>Languages:</strong> Python, Java, JavaScript, C</li>
-        <li><strong>Frameworks and Libraries:</strong> React, Node.js, Next.js, Tkinter, JUnit</li>
-        <li><strong>Tools:</strong> Git, GitHub, LaTeX, MATLAB</li>
+        <li><strong>Languages:</strong> Python, Java, JavaScript, TypeScript, C, C++</li>
+        <li><strong>Frameworks and Libraries:</strong> React, Next.js, Node.js, Express, Pandas, NumPy, Tensorflow, Tkinter, JUnit</li>
+        <li><strong>Tools:</strong> Linux, Git, GitHub, LaTeX, MATLAB</li>
         <li><strong>Databases:</strong> MongoDB</li>
       </ul>
     ),
@@ -22,7 +22,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-         Software Development Intern @ <a href="https://cer.ucsd.edu/" className="underlin">Center for Energy Research</a>
+         Software Development Intern @ <a href="https://cer.ucsd.edu/" className="underline">Center for Energy Research</a>
         </li>
         <li>
           Deep Learning Researcher @ <a href="https://knightlab.ucsd.edu/" className="underline">Knight Lab at UCSD</a>
