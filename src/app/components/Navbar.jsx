@@ -15,10 +15,10 @@ const navLinks = [
     title: "Projects",
     path: "#projects",
   },
-  {
-    title: "Contact",
-    path: "#contact",
-  },
+  // {
+  //   title: "Contact",
+  //   path: "#contact",
+  // },
   {
     title: "Resume",
     path: "Yoto_Kim_Resume.pdf"

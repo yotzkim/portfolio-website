@@ -10,6 +10,12 @@ const ProjectCard = ({
   gitUrl,
   previewUrl,
 }) => {
+  const formattedDescription = description.split('\n').map((line, index) => (
+    <span key={index}>
+      {line}
+      <br />
+    </span>
+  ));
   return (
     <div>
       <div
@@ -36,7 +42,7 @@ const ProjectCard = ({
         <p className="text-[#ADB7BE] text-xs text-center mb-2">
           {toolsUsed}
         </p>
-        <p className="text-white text-center">{description}</p>
+        <p className="text-white text-center">{formattedDescription}</p>
       </div>
     </div>
   );

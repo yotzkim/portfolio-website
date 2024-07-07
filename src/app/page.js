@@ -5,6 +5,7 @@ import About from "./components/AboutMe"
 import AboutSection from "./components/AboutMe";
 import ProjectsSection from "./components/ProjectsSection";
 import EmailSection from "./components/EmailSection";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -17,7 +18,7 @@ export default function Home() {
       <div className="py-8"></div>
       <ProjectsSection />
       </div>
-      <EmailSection/>
+      <Footer/>
     </main>
   );
 }
