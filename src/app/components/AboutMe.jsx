@@ -61,12 +61,12 @@ const AboutSection = () => {
             <br></br>
             <br></br>
 
-            Since then, I've found meaningful ways to utilize technology to make positive impacts and serve my community. This includes fine-tuning neural networks
+            Since then, I&apos;ve found meaningful ways to utilize technology to make positive impacts and serve my community. This includes fine-tuning neural networks
             to drive biomedical innovation at the Knight Lab, creating user-friendly, digital solutions for nonprofit organizations as a developer at
             Triton Software Engineering, and educating the next wave of technological innovators at Juni Learning. 
             <br></br>
             <br></br>
-            Currently, I'm developing at the Center for Energy Research, building a mobile app designed to educate users on clean energy. I hope to continue to collaborate with other passionate
+            Currently, I&apos;m developing at the Center for Energy Research, building a mobile app designed to educate users on clean energy. I hope to continue to collaborate with other passionate
             people to utilize tech for good and transform innovative ideas into reality!
             <br></br>
             <br></br>
