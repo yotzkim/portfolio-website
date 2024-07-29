@@ -43,8 +43,8 @@ const projectsData = [
     id: 5,
     title: "IBM Accelerate: To-do App",
     description: "⚠️ Currently under development! ⚠️",
-    image: "/images/ibm3.png",
-    gitUrl: "/",
+    image: "/images/ibm.png",
+    gitUrl: "https://github.com/2024-IBM-Accelerate-SW-Track/to-do-list-week-7-yotzkim",
     previewUrl: "/",
   },
   {
