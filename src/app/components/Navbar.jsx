@@ -21,7 +21,7 @@ const navLinks = [
   // },
   {
     title: "Resume",
-    path: "Yoto_Kim_Resume.pdf"
+    path: "../../images/Yoto_Kim_Resume.pdf"
   }
 ];
 
