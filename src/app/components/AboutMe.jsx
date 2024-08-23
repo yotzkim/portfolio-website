@@ -10,17 +10,17 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, C, C++, HTML/CSS
+          <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, C, C++, SQL, HTML/CSS, MATLAB
         </li>
         <li>
           <strong>Frameworks and Libraries:</strong> React, Next.js, Node.js,
           Express, Pandas, NumPy, Tensorflow
         </li>
         <li>
-          <strong>Tools:</strong> Linux, Git, GitHub, LaTeX, MATLAB
+          <strong>Tools:</strong> Linux, Git, GitHub, GraphQL, Docker, Visual Studio Code, LaTeX
         </li>
         <li>
-          <strong>Databases:</strong> MongoDB
+          <strong>Databases:</strong> MongoDB, PostgreSQL
         </li>
       </ul>
     ),
@@ -37,7 +37,7 @@ const TAB_DATA = [
           </a>
         </li>
         <li>
-          Deep Learning Researcher @{" "}
+          Machine Learning Researcher @{" "}
           <a href="https://knightlab.ucsd.edu/" className="underline">
             Knight Lab at UCSD
           </a>
