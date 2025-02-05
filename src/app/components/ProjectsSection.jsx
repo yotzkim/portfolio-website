@@ -6,7 +6,7 @@ const projectsData = [
   {
     id: 1,
     title: "Center for Energy Research App",
-    description: "⚠️ Currently under development! ⚠️ \nA mobile app designed to educate users on clean energy using interactive data models and visualizations",
+    description: "A mobile app designed to educate users on clean energy using interactive data models and visualizations",
     toolsUsed: "TypeScript, React Native",
     image: "/images/cer.png",
     gitUrl: "https://github.com/Center-For-Energy-TEC-App/Tec-App",

@@ -37,12 +37,6 @@ const TAB_DATA = [
           </a>
         </li>
         <li>
-          Machine Learning Researcher @{" "}
-          <a href="https://knightlab.ucsd.edu/" className="underline">
-            Knight Lab at UCSD
-          </a>
-        </li>
-        <li>
           Software Developer @{" "}
           <a href="https://tse.ucsd.edu/" className="underline">
             Triton Software Engineering
@@ -61,6 +55,18 @@ const TAB_DATA = [
           <a href="https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/" className="underline">
             IBM Accelerate
           </a>
+          <li>
+          Machine Learning Researcher @{" "}
+          <a href="https://knightlab.ucsd.edu/" className="underline">
+            Knight Lab
+          </a>
+        </li>
+          <li>
+            Mathematics Tutor @{" "}
+            <a href="https://math.ucsd.edu/students/undergraduate/tutoring" className="underline">
+            UC San Diego
+          </a>
+          </li>
         </li>
           <li>
           Computer Science Instructor @{" "}
