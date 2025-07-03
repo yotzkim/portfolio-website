@@ -22,7 +22,7 @@ const HeroSection = () => {
                 1000,
                 "Developer",
                 1000,
-                "Researcher",
+                "Engineer",
                 1000
               ]}
               wrapper="span"
@@ -32,7 +32,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I&apos;m a rising 3rd year student at the University of California, San Diego, majoring in Math-Computer Science with a minor in Cognitive Science
+          I&apos;m a rising senior at the University of California, San Diego, majoring in Math-Computer Science with a minor in Cognitive Science
           </p>
           <div>
              <Link

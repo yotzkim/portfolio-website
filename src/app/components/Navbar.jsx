@@ -19,10 +19,10 @@ const navLinks = [
   //   title: "Contact",
   //   path: "#contact",
   // },
-  {
-    title: "Resume",
-    path: "../../images/Yoto_Kim_Resume.pdf"
-  }
+  // {
+  //   title: "Resume",
+  //   path: "../../images/Yoto_Kim_Resume.pdf"
+  // }
 ];
 
 

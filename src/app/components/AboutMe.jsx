@@ -10,14 +10,16 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, C, C++, SQL, HTML/CSS, MATLAB
+          <strong>Languages:</strong> Python, Java, JavaScript, TypeScript, C,
+          C++, SQL, HTML/CSS, MATLAB
         </li>
         <li>
           <strong>Frameworks and Libraries:</strong> React, Next.js, Node.js,
           Express, Pandas, NumPy, Tensorflow
         </li>
         <li>
-          <strong>Tools:</strong> Linux, Git, GitHub, GraphQL, Docker, Visual Studio Code, LaTeX
+          <strong>Tools:</strong> Linux, Git, GitHub, GraphQL, Docker, Visual
+          Studio Code, LaTeX
         </li>
         <li>
           <strong>Databases:</strong> MongoDB, PostgreSQL
@@ -31,15 +33,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          Software Development Intern @{" "}
-          <a href="https://cer.ucsd.edu/" className="underline">
-            Center for Energy Research
-          </a>
-        </li>
-        <li>
-          Software Developer @{" "}
-          <a href="https://tse.ucsd.edu/" className="underline">
-            Triton Software Engineering
+          Software Engineering Intern @{" "}
+          <a className="underline">
+            Capital One
           </a>
         </li>
       </ul>
@@ -50,28 +46,58 @@ const TAB_DATA = [
     id: "past-roles",
     content: (
       <ul className="list-disc pl-2">
-          <li>
+        <li>
+          Software Engineering Intern @{" "}
+          <a href="https://casgc.ucsd.edu/" className="underline">
+            NASA - California Space Grant Consortium
+          </a>
+        </li>
+        <li>
+          Software Development Intern @{" "}
+          <a href="https://cer.ucsd.edu/" className="underline">
+            Center for Energy Research
+          </a>
+        </li>
+        <li>
           Software Fellow @{" "}
-          <a href="https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/" className="underline">
+          <a
+            href="https://www.ibm.com/blogs/jobs/career-ready-skills-with-ibm-accelerate-summer-program/"
+            className="underline"
+          >
             IBM Accelerate
           </a>
           <li>
-          Machine Learning Researcher @{" "}
-          <a href="https://knightlab.ucsd.edu/" className="underline">
-            Knight Lab
-          </a>
-        </li>
-          <li>
-            Mathematics Tutor @{" "}
-            <a href="https://math.ucsd.edu/students/undergraduate/tutoring" className="underline">
-            UC San Diego
-          </a>
+            Machine Learning Researcher @{" "}
+            <a href="https://knightlab.ucsd.edu/" className="underline">
+              Knight Lab
+            </a>
           </li>
-        </li>
           <li>
+            Software Developer @{" "}
+            <a href="https://tse.ucsd.edu/" className="underline">
+              Triton Software Engineering
+            </a>
+          </li>
+          {/* <li>
+            Mathematics Tutor @{" "}
+            <a
+              href="https://math.ucsd.edu/students/undergraduate/tutoring"
+              className="underline"
+            >
+              UC San Diego
+            </a>
+          </li> */}
+        </li>
+        <li>
           Computer Science Instructor @{" "}
           <a href="https://www.junilearning.com/" className="underline">
             Juni Learning
+          </a>
+        </li>
+        <li>
+          President @{" "}
+          <a href="https://apo.org/" className="underline">
+            Alpha Phi Omega UCSD
           </a>
         </li>
       </ul>
@@ -113,18 +139,16 @@ const AboutSection = () => {
             <br></br>
             <br></br>
             Since then, I&apos;ve found meaningful ways to utilize technology to
-            make positive impacts and serve my community. This includes
-            fine-tuning neural networks to drive biomedical innovation at the
-            Knight Lab, creating user-friendly, digital solutions for nonprofit
-            organizations as a developer at Triton Software Engineering, and
-            educating the next wave of technological innovators at Juni
-            Learning.
+            make positive impacts and serve my community.
             <br></br>
             <br></br>
-            I recently completed the IBM Accelerate program and am currently developing at the Center for Energy Research,
-            building a mobile app designed to educate users on clean energy. I
-            hope to continue to collaborate with other passionate people to
-            utilize tech for good and transform innovative ideas into reality!
+            Last summer, I completed the IBM Accelerate program and worked at
+            the Center for Energy Research, developing a mobile app designed to
+            educate users on clean energy. In the spring, I helped build an app
+            as part of the Quesst mission at NASA's California Space Grant
+            Consortium. I'm currently interning at Capital One and I hope to
+            continue to collaborate with other passionate people to utilize tech
+            for good and transform innovative ideas into reality!
             <br></br>
             <br></br>
             Outside of development, I love to cook, hike, and spend time with
